@@ -1,2 +1,2 @@
-[submodule "https://github.com/rinsacm/expense-calculator.git"]
+[submodule "https://github.com/rinsacm/expense-calculator-ui.git"]
 	url = client
