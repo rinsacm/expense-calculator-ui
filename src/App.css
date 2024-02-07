@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: #edf8fb;
+  width: 100vw;
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +38,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.heading1-color {
+  color: #151e71;
+}
+.input-border-color {
+  border-color: #8f8585;
 }
